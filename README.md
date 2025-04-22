@@ -1,4 +1,4 @@
-# Lab OpenShift
+# Lab OpenShift v2
 
 
 [![Build Status](https://github.com/nyu-devops/lab-openshift/actions/workflows/ci.yml/badge.svg)](https://github.com/nyu-devops/lab-openshift/actions)
